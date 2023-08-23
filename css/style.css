@@ -1,0 +1,157 @@
+*{
+    background-color: #9fb6f7;
+}
+.empty_div{
+    height: 100px;
+}
+
+
+.mother_div{
+    margin-left:220px;
+    padding-top: 45px;
+    padding-left: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    width:66%;
+    background-color:#FFFFFF;
+    border-radius: 20px;
+}
+.image_container{
+    height:450px;
+    width:35%;
+   /* background-color: aqua;*/
+   background-color:#FFFFFF;
+
+}
+.image{
+    width: 90%;
+    height: 100%;
+    background-color: blanchedalmond;
+    border-radius: 30px;
+    
+
+}
+.text_container{
+    padding-top: 10px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    height:450px;
+    width: 65%;
+    /*background-color: blueviolet;*/
+    background-color:#FFFFFF;
+}
+.heading_box{ 
+    padding-top: 15px;
+    font-size: 50px;
+    display:block;
+    height: 70px;
+    background-color:#FFFFFF;
+}
+.par_box{
+    display:block;
+    font-size: 42px;
+    color:#AAABB2;
+    background-color:#FFFFFF;
+    
+}
+.follow_box{
+    display: flex;
+    flex-wrap: wrap;
+    width:380px;
+    background-color:#FFFFFF;
+}
+.followers{
+    height: 60px;
+    width:190px;
+   /* background-color: cadetblue;*/
+    font-size: 42px;
+    color:#AAABB2;
+    background-color:#FFFFFF;
+}
+.following{
+    height: 60px;
+    width:190px;
+    /*background-color: red;*/
+    font-size: 42px;
+    color:#AAABB2;
+    background-color:#FFFFFF;
+}
+.num_followers{
+    display: flex;
+    flex-wrap: nowrap;
+    height:70px ;
+    width: 160px;
+    /*background-color: chartreuse;*/
+    font-size: 50px;
+    padding-left: 30px;
+    background-color:#FFFFFF;
+}
+.num_9{
+    height:80% ;
+    width: 17%;
+    /*background-color: red;*/
+    padding-top: 5px;
+    background-color:#FFFFFF;
+
+}
+
+.num_6{
+    height:100% ;
+    width: 17%;
+   /* background-color: red;*/
+   background-color:#FFFFFF;
+
+}
+.num_3{
+    height:80% ;
+    width: 17%;
+    /*background-color: red;*/
+    padding-top: 5px;
+    background-color:#FFFFFF;
+
+}
+.num_following{
+    display: flex;
+    flex-wrap: nowrap;
+    height:70px ;
+    width: 160px;
+    /*background-color: antiquewhite;*/
+    padding-left:30px ;
+    background-color:#FFFFFF;
+}
+
+.num_2{
+    height: 100%;
+    width:32%;
+    /*background-color: bisque;*/
+    font-size: 46px;
+    background-color:#FFFFFF;
+}
+.num_4{
+    height: 100%;
+    width:20%;
+    /*background-color: bisque;*/
+    font-size: 52px;
+    background-color:#FFFFFF;
+}
+    
+
+.button{
+    width:220px;
+    /*background-color: coral;*/
+    padding-top: 35px;
+    padding-left: 45px;
+    background-color:#FFFFFF;
+}
+.style_button{
+    border-color: #7840FF;
+    color:#7840FF;
+    font-size: 40px;
+    padding: 10px 40px 10px 40px;
+    background-color:#FFFFFF;                   
+    
+}
+
+    
