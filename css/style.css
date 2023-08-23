@@ -1,5 +1,5 @@
 *{
-    background-color: #9fb6f7;
+    background-color: #f3c8e6;
 }
 .empty_div{
     height: 100px;
@@ -14,7 +14,7 @@
     flex-wrap: wrap;
     height: 500px;
     width:66%;
-    background-color:gi#f7cdcd;
+    background-color:#FFFFFF;
     border-radius: 20px;
 }
 .image_container{
@@ -27,7 +27,6 @@
 .image{
     width: 90%;
     height: 100%;
-    background-color: blanchedalmond;
     border-radius: 30px;
     
 
@@ -151,7 +150,7 @@
     font-size: 40px;
     padding: 10px 40px 10px 40px;
     background-color:#FFFFFF;                   
-   
+    
 }
 
     
